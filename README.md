@@ -15,12 +15,6 @@ Java
 ArrayList
 Scanner
 Object-Oriented Programming (OOP)
-📂 Project Structure
-BankingManagementSystem/
-│── Main.java
-│── BankAccount.java
-└── README.md
-▶️ How to Run
 
 Compile the Java files.
 
